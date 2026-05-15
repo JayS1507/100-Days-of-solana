@@ -1,0 +1,12 @@
+{
+  "name": "solana-account-explorer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "explorer.mjs",
+  "scripts": {
+    "start": "node explorer.mjs"
+  },
+  "dependencies": {
+    "@solana/kit": "^latest"
+  }
+}
